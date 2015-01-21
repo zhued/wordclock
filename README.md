@@ -5,7 +5,7 @@ repo for word clock project with arduino
 
 ##Timeline:
 
-![Day 1 - Touch Sensor Working](/images/day_1_touch_sensor.jpg)
+![Day 1 - Touch Sensor Working](https://github.com/zhued/wordclock/blob/master/images/day1_touch_sensor.jpg)
 
 
 ##References/Helpful Links:
