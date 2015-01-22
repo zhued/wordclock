@@ -5,7 +5,7 @@ repo for word clock project with arduino
 
 ##Timeline:
 
-###Day 1/20/15 
+###1/20/15 
 
 - Touch Sensor Working, to be used to cycle through menus/actions on the clock
 - Bought Arduino, led lights, and a power source
